@@ -15,8 +15,8 @@ After determining the final cost each, what is the final cost of the cheapest op
 ## Example
 Consider the following example:
 
-`AAA: Seat 9997 \r
-BBB: Discount 2886 \r
+`AAA: Seat 9997 \
+BBB: Discount 2886 \
 DDD: Luggage 3500 \
 AAA: Tax 156 \
 CCC: Fee 9468 \
