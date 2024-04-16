@@ -15,14 +15,14 @@ After determining the final cost each, what is the final cost of the cheapest op
 ## Example
 Consider the following example:
 
-`AAA: Seat 9997
-BBB: Discount 2886
-DDD: Luggage 3500
-AAA: Tax 156
-CCC: Fee 9468
-BBB: Fee 9378
-AAA: Discount 3103
-DDD: Rebate 967`
+`AAA: Seat 9997 \
+BBB: Discount 2886 \
+DDD: Luggage 3500 \
+AAA: Tax 156 \
+CCC: Fee 9468 \
+BBB: Fee 9378 \
+AAA: Discount 3103 \
+DDD: Rebate 967 \ `
 
 - Spaceliner AAA has a seat cost of 9997, tax of 156 and a discount of 3103. That brings AAA to a total of 9997+156-3103 = 7050
 - Spaceliner BBB has a fee of 9378, and a discount of 2886. That brings BBB to a total cost of 9378-2886 = 6492
